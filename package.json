@@ -1,0 +1,9 @@
+{
+  "name": "purescript-browsersync",
+  "scripts": {
+    "test": "pulp test -m Test.Browsersync"
+  },
+  "dependencies": {
+    "browser-sync": "^2.13.0"
+  }
+}
